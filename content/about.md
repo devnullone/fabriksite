@@ -3,48 +3,26 @@ title: 'A Propos'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Associée à notre passion issue de l‘utilisation de machine à commande numérique (imprimantes 
+3D, de machine outil ,de ligne d'assemblage automatique…) que nous avons développé tout au 
+long de nos formations, Farbig Fabrik offre la possibilité de passer de l‘idée à la réalisation de 
+projets en un temps record. 
 
-## Notre philosophie
+Farbig Fabrik est une solution à vos besoins de prototypage rapide, de maintenance pour vos 
+projets en mécatronique ,en électronique et plasturgie.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Notre Mission
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Créer des solutions industrielles sur mesure pour booster la performance de votre entreprise de la machine clé en main à la  pièce de précision complexe.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+# Notre Mission et nos Valeurs
 
-## Notre Mission et nos Valeurs
+## Philosophie
+Faire des idées de nos partenaires des produits efficaces et réels pouvant aider à la facilitation et à l’exécution de leurs tâches professionnelles.
+En un mot nous donnons vie à vos idées.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## Valeurs
+Véritable partenaire de vos projets, nous vous accompagnons de l’analyse de vos besoins jusqu’à la livraison, la mise en service, la formation de 
+votre personnel et la maintenance de vos outils de travail.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+![Impression 3D ](/images/contents/modelisation3d.png)

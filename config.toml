@@ -67,7 +67,7 @@ title = "FarbigFabrik"
 
   [[menu.main]]
     name = "Patnenaires"
-    url = "http://localhost:1313/#patners"
+    url = "https://farbigfabrik.com/#patners"
     weight = 2
 
   [[menu.main]]
