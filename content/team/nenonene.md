@@ -1,0 +1,11 @@
+---
+title: "Alfred Nenonene"
+date: 2018-11-19T10:47:58+10:00
+draft: false
+image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
+jobtitle: "CEO et Directeur de Production"
+linkedinurl: "https://www.linkedin.com/"
+promoted: true
+weight: 1
+---
+

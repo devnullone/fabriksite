@@ -1,0 +1,57 @@
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          <h3 class="footer-title">{{.Site.Title}}</h3>
+          {{ partial "footer-menu" . }}
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "47ee24e8f55648f5b36fd2f291a411c3"}'></script><!-- End Cloudflare Web Analytics -->
+<script>
+		(function(){
+			"use strict"; 
+			// osm-map the id of div area where map should be shown
+			var element = document.getElementById('osm-map');
+
+			// lat & long of center of map and marker 
+			var lat = '48.210033';
+			var long =  '16.363449';
+
+			// html info for popup on marker
+			var popupHtml = '<b>FarbigFabrik SARL</b><br><br> Rue Yebu-Yebu Jean-Paul II <br> LOME-TOGO';
+
+			// Height can be set. Is done by style or css too.
+			// element.style = 'height:400px;';
+
+			// Create Leaflet map on map element.
+			var map = L.map(element, {scrollWheelZoom: false });
+
+			// Add Openstreetmap tile layer with attribution to the Leaflet map.
+			// this is important and worth to honor openstreetmap contributors
+			L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+				attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
+			}).addTo(map);
+
+			// Your target's GPS coordinates.
+			var target = L.latLng( lat , long );
+
+			// Set map's center to target with zoom 15.
+			map.setView(target, 15);
+
+			// Place a marker on the same location.
+			L.marker(target).addTo(map)
+				.bindPopup(popupHtml,  '{keepInView: true}')
+				.openPopup();
+
+			// Optional, but useful: change behaviour of autoscrollwheel
+			// only zoom after click, no autozoom on focus
+			map.scrollWheelZoom.disable();
+			map.on('click', () => { map.scrollWheelZoom.enable();});
+			map.on('mouseout', () => { map.scrollWheelZoom.disable();});
+			})();;
+	</script>

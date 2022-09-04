@@ -1,0 +1,71 @@
+{{ define "body_classes" }}page-contact{{ end }}
+
+{{ define "main" }}
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-8 col-md-6">
+      <div class="service service-single">
+        <h1 class="title">{{.Title}}</h1>
+        {{ partial "call.html" (dict "site" .Site "context" . "show_button" "false") }}
+        <div class="content mt-4">{{.Content}}</div>
+      </div>
+    </div>
+    <div class="col-8 col-md-6">
+      <!-- Carte -->
+      <div class="row mt-4">
+        <div class="container">
+          <div id="osm-map" style="height:300px; width: 440px;"></div>
+        </div>
+        
+      </div>
+      
+      <!-- Formulaire -->
+      <div class="row mt-4">
+        <form action="https://getform.io/f/1a9cb86c-9e27-4916-a1c2-f31f82d1ff61" method="POST">
+            <div class="container mb-2">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input type="text" name="name" placeholder="Nom">
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input type="email" name="email" placeholder="Email address">
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="container mb-2">
+              <div class="row">
+                <div class="col-md-12">
+                  <textarea class="form-control" name="message" rows="3"  placeholder="Message" style="width: 420px; height: 150px;"></textarea>
+                </div>
+              </div>
+            </div>
+
+            <div class="container mb-2">
+              <div class="row">
+                <div class="col-md-12">
+                  <!-- checkbox handle --> 
+                  <input type="checkbox" name="subscribe" value="yes" checked> Nous autorisez a vous contacter
+                  <input type="hidden" name="subscribe" value="no">
+                </div>
+              </div>
+            </div>
+
+            <div class="container mb-2">
+              <div class="row">
+                <div class="col-md-12">
+                  <button class="button button-primary" type="submit">Envoyer</button>
+                </div>
+              </div>
+            </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}
