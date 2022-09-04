@@ -11,4 +11,4 @@ weight: 1
 Nous réalisons de nombreux projets et offrons à notre clientèle une **expertise** et des services **sur mesure** empreints d'une **originalité**. 
 Nous offrons un service **entièrement, personnalisé** tant pour le domaine de la découpe de panneaux, fabrication d'articles publicitaire, ou de décoration. Nous gravons et découpons selon vos demandes.
 
-![Services laser ](/images/contents/lasers.png)
+![Services laser ](/images/contents/laser.png)

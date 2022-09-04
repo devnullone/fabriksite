@@ -61,27 +61,27 @@ title = "FarbigFabrik"
     weight = 1
 
   [[menu.main]]
-    name = "Nos Services"
+    name = "Nos services"
     url = "/services/"
     weight = 1
 
   [[menu.main]]
-    name = "Patnenaires"
+    name = "Partenaires"
     url = "https://farbigfabrik.com/#patners"
     weight = 2
 
   [[menu.main]]
-    name = "Notre Equipe"
+    name = "Notre équipe"
     url = "/team/"
     weight = 3
 
   [[menu.main]]
-    name = "A Propos"
+    name = "À propos"
     url = "/about/"
     weight = 4
 
   [[menu.main]]
-    name = "Contact"
+    name = "Contacts"
     url = "/contact/"
     weight = 5
 
@@ -92,11 +92,11 @@ title = "FarbigFabrik"
     weight = 1
 
   [[menu.footer]]
-    name = "A Propos"
+    name = "À propos"
     url = "/about/"
     weight = 2
 
   [[menu.footer]]
-    name = "Contact"
+    name = "Contacts"
     url = "/contact/"
     weight = 3

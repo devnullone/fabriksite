@@ -8,18 +8,12 @@ draft: false
 weight: 3
 ---
 
-L'impression 3D permet de concevoir vos objet en trois dimensions. 
+Nous sommes dotés des differents types d'imprimantes 3D. Nous pouvons réaliser vos pièces à l’aide des technologies de  Dépôt de Fil Fondu (FDM), Stéréolithographie (SLA) 
+### 
 
-Nous sommes dotés des differents types d'imprimantes 3D. **FABRIK FARBIG** vous apporte de nouvelles solutions à vos problèmes en imprimant:
-* **pièces détachées,**
-* **quincaillerie,**
-* **ameublement,**
-* **outillage,**
-* **sanitaire,**
-* **chauffage,**
-* **climatisation,**
-*  **électricité,** 
-* **plomberies usées ou cassées** en accèes limitées, ou imdisponible à la vente...
+### **FABRIK FARBIG** vous apporte de nouvelles solutions à vos problèmes en imprimant: **pièces détachées**, **quincaillerie**, **ameublement**,  **outillage**, **sanitaire**, **chauffage**, **climatisation**, **électricité**, **plomberies usées ou cassées** en accèes limitées, ou imdisponible à la vente...
+
+ 
 
 # Galeries Impression 3D
 

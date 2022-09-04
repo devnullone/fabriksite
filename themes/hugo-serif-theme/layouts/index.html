@@ -1,7 +1,7 @@
 {{ define "body_classes" }}page-home{{ end }}
 
 {{ define "main" }}
-<div class="intro" style="padding-top: 20px; padding-bottom: 50px;">
+<div class="intro strip-grey" style="padding-top: 20px; padding-bottom: 50px;">
   <div class="container">
     <div class="row justify-content-start">
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
@@ -33,7 +33,7 @@
 </div>
 
 {{if .Site.Data.features}}
-<div class="strip strip-grey">
+<div class="strip">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <h1 class="justify-content-center" style="text-align: center; margin-bottom:30px;">Nos Valeurs</h1>
     <div class="row justify-content-center">
@@ -59,7 +59,7 @@
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
 {{if gt (len $services) 0}}
 <section id="serices">
-  <div class="strip">
+  <div class="strip strip-grey">
     <div class="container pt-6 pb-6 pb-md-10">
       <h1 class="justify-content-center" style="text-align: center; margin-bottom:30px;">Nos services</h1>
       <div class="row justify-content-start">
@@ -84,7 +84,7 @@
 
 {{if .Site.Data.patners}}
 <section id="patners">
-  <div class="strip strip-grey">
+  <div class="strip">
     <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
       <h1 class="justify-content-center" style="text-align: center; margin-bottom:30px;">Nos Patenaires</h1>
       <div class="row">

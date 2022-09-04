@@ -1,5 +1,5 @@
 ---
-title: 'A Propos'
+title: 'À propos'
 date: 2018-02-22T17:01:34+07:00
 ---
 
@@ -15,8 +15,6 @@ projets en mécatronique ,en électronique et plasturgie.
 
 Créer des solutions industrielles sur mesure pour booster la performance de votre entreprise de la machine clé en main à la  pièce de précision complexe.
 
-# Notre Mission et nos Valeurs
-
 ## Philosophie
 Faire des idées de nos partenaires des produits efficaces et réels pouvant aider à la facilitation et à l’exécution de leurs tâches professionnelles.
 En un mot nous donnons vie à vos idées.
@@ -24,5 +22,3 @@ En un mot nous donnons vie à vos idées.
 ## Valeurs
 Véritable partenaire de vos projets, nous vous accompagnons de l’analyse de vos besoins jusqu’à la livraison, la mise en service, la formation de 
 votre personnel et la maintenance de vos outils de travail.
-
-![Impression 3D ](/images/contents/modelisation3d.png)

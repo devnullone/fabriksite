@@ -3,7 +3,7 @@ $primary: {{ .Site.Params.colors.primary | default "#ff1617" }};
 $black: {{ .Site.Params.colors.black | default "#2f2f41" }};
 $white: {{ .Site.Params.colors.white | default "#ffffff" }};
 $white-offset: {{ .Site.Params.colors.white_offset | default "#f6f7ff" }};
-$grey: {{ .Site.Params.colors.grey | default "#5C5A5A" }};
+$grey: {{ .Site.Params.colors.grey | default "#000000" }};
 
 // Fonts
 $font-family-base: {{ .Site.Params.fonts.base }}, Helvetica, Arial, sans-serif, -apple-system;

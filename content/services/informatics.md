@@ -1,5 +1,5 @@
 ---
-title: "Services de conseil, conception et de dévelopement logiciel"
+title: "Conseil, service, conception et dévelopement logiciel"
 date: 2018-11-28T15:14:54+10:00
 image: 'images/icons/web-programming.png'
 intro_image: "images/header/software.png"
@@ -20,4 +20,4 @@ FABRIK FARBIG offre de nombreux services pour répondre aux besoins en informati
 5. **Maintenance:** Logiciel et réseaux d'entreprise.
 6. **Formation/Ateliers:** Programmation, base de données, SIG etc...
 
-![Service informatiques ](/images/contents/soft.png)
+![Service informatiques ](/images/contents/formation.png)

@@ -11,5 +11,4 @@ intro_image_hide_on_mobile: true
 
 Nous créons des solutions **industrielles** sur mesure pour booster la **performance** de votre entreprise de la machine **clé en main** à la pièce de **précision** complexe.
 
-Nous créons des solutions **industrielles** sur mesure pour booster la **performance**.
 
