@@ -56,7 +56,7 @@ title = "FarbigFabrik"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Acceuil"
+    name = "Accueil"
     url = "/"
     weight = 1
 
